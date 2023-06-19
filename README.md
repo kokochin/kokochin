@@ -16,9 +16,9 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishige-shogo&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokochin&layout=compact" />
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishige-shogo&title=Joined2020,Commit,PullRequest,Repositories,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kokochin&title=Joined2020,Commit,PullRequest,Repositories,Issues" />
 </a>
