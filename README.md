@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kokochinz" target="blank"><img src="https://img.shields.io/twitter/follow/kokochinz?logo=twitter&style=for-the-badge" alt="kokochinz" /></a> </p>
 
-- 🔭 I’m currently working on [system maintenance for a local non-profit organization](https://otera-oyatsu.club/)
+- 🔭 I’m currently working on [system maintenance for a local non-profit organization](https://ico-2021.jp/)
 
 - 🌱 I’m currently learning **Docker, Laravel, AWS**
 
