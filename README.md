@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [system maintenance for a local non-profit organization](https://ico-2021.jp/)
 
-- 🌱 I’m currently learning **Docker, Laravel, AWS**
+- 🌱 I’m currently learning **Docker, Laravel，Vue.js**
 
 - 💬 Ask me about **WordPress plugin development**
 
