@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kokochin!</h1>
-<h3 align="center">Let's play with me!</h3>
+<h3 align="center">Let's enjoy with me!</h3>
 
 <p align="left"> <a href="https://twitter.com/kokochinz" target="blank"><img src="https://img.shields.io/twitter/follow/kokochinz?logo=twitter&style=for-the-badge" alt="kokochinz" /></a> </p>
 
-- 🔭 I’m currently working on [system maintenance for a local non-profit organization](https://ico-2021.jp/)
+- 🔭 I am the CEO of [I co. inc](https://ico-2021.jp/)
 
-- 🌱 I’m currently learning **Docker, Laravel，Vue.js**
-
-- 💬 Ask me about **WordPress plugin development**
+- 💬 Please ask us about **DX, WordPress plugin development**
 
 - 📫 How to reach me **Direct Massages on SNS**
 
