@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kokochinz" target="blank"><img src="https://img.shields.io/twitter/follow/kokochinz?logo=twitter&style=for-the-badge" alt="kokochinz" /></a> </p>
 
-- 🔭 [株式会社 I co.](https://ico-2021.jp/) 代表取締役です。
+- 🔭 [株式会社 I co.](https://ico-2021.jp/) 元代表取締役です。
 
 - 💬 WordPress, Laravel, Vue あたりをよく開発に使います。
 
